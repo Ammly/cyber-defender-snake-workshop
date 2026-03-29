@@ -11,6 +11,10 @@ Build a cybersecurity Snake game from scratch using **AI Coding Agents**.
 - Code Editor eg. VSCode, Antigravity, Cursor, etc.
 - AI Agents extension eg. Copilot, Claude Code, etc.
 
+## Workshop
+
+link to [workshop](workshop/workshop_guide.md)
+
 ## Repo Structure
 
 ```
