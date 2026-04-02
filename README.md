@@ -19,27 +19,27 @@ Build a cybersecurity Snake game from scratch using **AI Coding Agents**.
 
 ### 💻 Offline Editors (Install on your laptop)
 
-| Tool | AI Agent | Free | Notes |
-|------|----------|------|-------|
-| [VS Code](https://code.visualstudio.com) | [GitHub Copilot](https://github.com/features/copilot) | ✅ Free tier | Most popular — recommended for this workshop |
-| [Google Antigravity](https://idx.google.com) | Built-in Gemini agent | ✅ Free | Google's new AI-first IDE, great Copilot alternative |
-| [Cursor](https://cursor.com) | Built-in Claude/GPT | ✅ Free tier | AI-native editor, very powerful |
-| [Windsurf](https://windsurf.com) | Built-in Cascade AI | ✅ Free | VS Code fork with generous free AI |
-| [Zed](https://zed.dev) | Claude/Gemini via API | ✅ Free & open source | Extremely fast, built in Rust |
-| [Void](https://voideditor.com) | Any model (bring your own key) | ✅ Free & open source | Open source Cursor alternative |
+| Tool                                         | AI Agent                                              | Free                 | Notes                                                |
+| -------------------------------------------- | ----------------------------------------------------- | -------------------- | ---------------------------------------------------- |
+| [VS Code](https://code.visualstudio.com)     | [GitHub Copilot](https://github.com/features/copilot) | ✅ Free tier          | Most popular — recommended for this workshop         |
+| [Google Antigravity](https://idx.google.com) | Built-in Gemini agent                                 | ✅ Free               | Google's new AI-first IDE, great Copilot alternative |
+| [Cursor](https://cursor.com)                 | Built-in Claude/GPT                                   | ✅ Free tier          | AI-native editor, very powerful                      |
+| [Windsurf](https://windsurf.com)             | Built-in Cascade AI                                   | ✅ Free               | VS Code fork with generous free AI                   |
+| [Zed](https://zed.dev)                       | Claude/Gemini via API                                 | ✅ Free & open source | Extremely fast, built in Rust                        |
+| [Void](https://voideditor.com)               | Any model (bring your own key)                        | ✅ Free & open source | Open source Cursor alternative                       |
 
 ### 🌐 Online Editors (No install needed — just open a browser)
 
-| Tool | AI Built-in | Notes |
-|------|-------------|-------|
-| [Replit](https://replit.com) | ✅ Replit AI | Full IDE in browser, instant hosting, great for beginners |
-| [StackBlitz](https://stackblitz.com) | ✅ Bolt AI | Runs Node.js in the browser, VS Code feel |
-| [CodeSandbox](https://codesandbox.io) | ✅ AI assistant | Instant environments, great for HTML/CSS/JS projects |
-| [CodePen](https://codepen.io) | ✅ AI suggestions | Best for quick HTML/CSS/JS demos, no sign-up needed |
-| [GitHub Codespaces](https://github.com/features/codespaces) | ✅ GitHub Copilot | Full VS Code in the browser, powered by GitHub |
-| [Google AI Studio](https://aistudio.google.com) | ✅ Gemini | Use the AI to generate code, paste into any editor |
-| [Claude.ai](https://claude.ai) | ✅ Claude | Ask Claude to write code for each step, paste into any editor |
-| [bolt.new](https://bolt.new) | ✅ AI agent | Describe what you want, AI builds the whole app |
+| Tool                                                        | AI Built-in      | Notes                                                         |
+| ----------------------------------------------------------- | ---------------- | ------------------------------------------------------------- |
+| [Replit](https://replit.com)                                | ✅ Replit AI      | Full IDE in browser, instant hosting, great for beginners     |
+| [StackBlitz](https://stackblitz.com)                        | ✅ Bolt AI        | Runs Node.js in the browser, VS Code feel                     |
+| [CodeSandbox](https://codesandbox.io)                       | ✅ AI assistant   | Instant environments, great for HTML/CSS/JS projects          |
+| [CodePen](https://codepen.io)                               | ✅ AI suggestions | Best for quick HTML/CSS/JS demos, no sign-up needed           |
+| [GitHub Codespaces](https://github.com/features/codespaces) | ✅ GitHub Copilot | Full VS Code in the browser, powered by GitHub                |
+| [Google AI Studio](https://aistudio.google.com)             | ✅ Gemini         | Use the AI to generate code, paste into any editor            |
+| [Claude.ai](https://claude.ai)                              | ✅ Claude         | Ask Claude to write code for each step, paste into any editor |
+| [bolt.new](https://bolt.new)                                | ✅ AI agent       | Describe what you want, AI builds the whole app               |
 
 > **For this workshop**, VS Code with GitHub Copilot or Google Antigravity is recommended. If you can't install anything, open [CodePen](https://codepen.io) — create three files (HTML, CSS, JS), paste the prompts from `copilot-prompts.md` into Claude.ai or Google AI Studio, and copy the output into CodePen. It works.
 
